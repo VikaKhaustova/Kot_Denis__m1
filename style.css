@@ -1,0 +1,24 @@
+body{
+  font-family: sans-serif;
+ margin: 0;
+ padding: 0;
+ background-color: #12185e;
+ text-align: center;
+ color: white;
+ font-size: 20px;
+}
+
+
+a{
+    color: white;
+    font-size: 20px;
+}
+h2{
+    color: white;
+    padding: 10px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #7a130a;
+}
+
+/*Зроби цей сайт красивим 😉*/
